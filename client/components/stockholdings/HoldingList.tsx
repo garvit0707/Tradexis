@@ -5,8 +5,7 @@ import { FONTS } from '../../constants/Fonts';
 import HoldingListItem from './HoldingListItem';
 
 interface HoldingProps {
-  data: Record<string, any>; 
-  rjfrjfro
+  data: Record<string, any>;
 }
 
 const HoldingList: FC<HoldingProps> = ({ data }) => {
